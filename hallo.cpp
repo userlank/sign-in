@@ -12,5 +12,8 @@ int main()
     cout<<"total="<<a+b<<endl;
     int c=0;
     cin>>c;
-    cout<<"total="<<a+b+c;
+    cout<<"total="<<a+b+c<<endl;
+    int d=0;
+    cin>>d;
+    cout<<"total="<<a+b+c+d;
 }
