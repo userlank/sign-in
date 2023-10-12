@@ -9,5 +9,8 @@ int main()
     {
         cout<<endl<<"+";
     }
-    cout<<"total="<<a+b;
+    cout<<"total="<<a+b<<endl;
+    int c=0;
+    cin>>c;
+    cout<<"total="<<a+b+c;
 }
